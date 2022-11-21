@@ -1,15 +1,17 @@
-# AWG
-poor man's function generator
+# Arbitrary Waveform Generator
 
-Ce projet est une stricte copie du générateur de signaux complexes à base de raspberry pi zero (processeur 2040)
-publié par Wolf2018 https://www.instructables.com/Poor-Mans-Waveform-Generator-Based-on-RP2040-Raspb/ 
+Currently untested
 
-lui même dérivé du projet rgco https://www.instructables.com/Arbitrary-Wave-Generator-With-the-Raspberry-Pi-Pic/ 
-reposant sur un raspberry pi pico (processeur 2020)
+## Goals
 
-Les droits sont détenus par l'éditeur Autodesk, il s'agit donc d'un projet "publié" mais non open source, non open hardware, 
-totalement "propriétarisé" par l'éditeur. 
+- 0-15MHz
+- drive a 50-ohm load
+- ±3.3V output voltage
 
-Les firmwares et instructions de montage sont à récupérer sur le site instructable, et ne peuvent être intégré sur ce dépot
+## Credits
 
+Rebuilt from the ground up, but originally derived from the following:
 
+- https://www.instructables.com/Arbitrary-Wave-Generator-With-the-Raspberry-Pi-Pic/
+- https://www.instructables.com/Poor-Mans-Waveform-Generator-Based-on-RP2040-Raspb/
+- https://github.com/F6ITU/AWG
