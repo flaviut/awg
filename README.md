@@ -1,6 +1,6 @@
 # Arbitrary Waveform Generator
 
-Currently untested
+**DOES NOT WORK**, see issues
 
 ## Goals
 
